@@ -23,12 +23,16 @@ https://discord.gg/AfYDUGW
 Any issues me contact on Discord: Howdy#8276
 
 ----------------------------
-TREASURE EDIT README - https://github.com/TeamFishbowl/onyxTreasures
+### TREASURE EDIT README - https://github.com/TeamFishbowl/onyxTreasures
 ----------------------------
 
-What is this ? : This is an edit of onyxDumpsters. It adds 20+ Underwater locations that players can search to get items, You can find the origenal script here : https://forum.cfx.re/t/esx-onyx-dumpster-diving/1351472/14 and here : https://github.com/HiHowdy/onyxDumpsters
+### What is this ? : This is an edit of onyxDumpsters. It adds 20+ Underwater locations that players can search to get items, You can find the origenal script here : https://forum.cfx.re/t/esx-onyx-dumpster-diving/1351472/14 and here : https://github.com/HiHowdy/onyxDumpsters
 
-Coords : 
+### how to use : 
+
+put onyxTreasures in your resource folder, add onyxTreasures to your server.cfg, import sql or add items to your database mannually.
+
+### Coords : 
 
 1 - : 60.46, -349.01, 54.95
 
