@@ -82,17 +82,17 @@ put onyxTreasures in your resource folder, add onyxTreasures to your server.cfg,
 
 24 - : -2086.977, -1077.344, -51.79911
 
-### Coords :dependencies
+### dependencies / optional :
 
-* zai-divegear - for scuba gear - https://github.com/TeamFishbowl/zai-divegear
+* zai-divegear(optional, you can use your own scuba script if you like ) - for scuba gear - https://github.com/TeamFishbowl/zai-divegear
 
-* t-notify - for some notifications - https://github.com/TasoOneAsia/t-notify
+* t-notify(needed) - for some notifications - https://github.com/TasoOneAsia/t-notify
 
-* treasures ymap - https://github.com/TeamFishbowl/treasure
+* treasures ymap(needed) - https://github.com/TeamFishbowl/treasure
 
-* ProgressBars - https://github.com/EthanPeacock/progressBars
+* ProgressBars(needed) - https://github.com/EthanPeacock/progressBars
 
-* MythicNotify - https://github.com/JayMontana36/mythic_notify
+* MythicNotify(needed) - https://github.com/JayMontana36/mythic_notify
 
 * ESX ( change weight to limit in the sql file if you are using limit instead of weight )
 
