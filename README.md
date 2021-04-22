@@ -2,7 +2,9 @@
 https://github.com/TeamFishbowl/onyxTreasures
 ----------------------------
 
-### What is this ? : This is an edit of onyxDumpsters. It adds 20+ Underwater locations that players can search to get items and 1 box in construction, You can find the original script here : https://forum.cfx.re/t/esx-onyx-dumpster-diving/1351472/14 and here : https://github.com/HiHowdy/onyxDumpsters
+### What is this ? : 
+
+This is an edit of onyxDumpsters. It adds 20+ Underwater locations that players can search to get items and 1 box in construction, You can find the original script here : https://forum.cfx.re/t/esx-onyx-dumpster-diving/1351472/14 and here : https://github.com/HiHowdy/onyxDumpsters
 
 ### how to use : 
 
