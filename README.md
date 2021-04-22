@@ -8,7 +8,7 @@ This is an edit of onyxDumpsters. It adds 20+ Underwater locations that players 
 
 ### how to use : 
 
-put onyxTreasures in your resource folder, add onyxTreasures to your server.cfg, import sql or add items to your database mannually, out this https://github.com/TeamFishbowl/treasure in your resources folder and start them in your cfg.
+put onyxTreasures in your resource folder, add onyxTreasures to your server.cfg, import sql or add items to your database mannually, put this https://github.com/TeamFishbowl/treasure in your resources folder and start them in your cfg.
 
 you need t-notify in this version as im converting all my scripts from mythic to t-notify but havent finished this one.
 
