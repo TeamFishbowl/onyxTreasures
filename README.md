@@ -8,6 +8,8 @@
 
 put onyxTreasures in your resource folder, add onyxTreasures to your server.cfg, import sql or add items to your database mannually, out this https://github.com/TeamFishbowl/treasure in your resources folder and start them in your cfg.
 
+you need t-notify in this version as im converting all my scripts from mythic to t-notify but havent finished this one.
+
 ### example vids : 
 
 https://streamable.com/03wpe8
