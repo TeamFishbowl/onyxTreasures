@@ -32,6 +32,12 @@ Any issues me contact on Discord: Howdy#8276
 
 put onyxTreasures in your resource folder, add onyxTreasures to your server.cfg, import sql or add items to your database mannually.
 
+### example vids : 
+
+https://streamable.com/03wpe8
+
+https://streamable.com/oln80a
+
 ### Coords : 
 
 1 - : 60.46, -349.01, 54.95
